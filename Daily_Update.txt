@@ -1,0 +1,1880 @@
+10-07-2024
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Create method for pan number validation
+	
+	
+DECLARE @TableName NVARCHAR(256) = 'YourTableName'
+
+SELECT DISTINCT
+    ROUTINE_NAME AS StoredProcedureName
+FROM
+    INFORMATION_SCHEMA.ROUTINES
+WHERE
+    ROUTINE_TYPE = 'PROCEDURE'
+    AND OBJECT_DEFINITION(OBJECT_ID(ROUTINE_NAME)) LIKE '%' + @TableName + '%'
+ORDER BY
+    StoredProcedureName;
+	
+
+
+14/08/1999
+PRINCE KANJI KANDOLIA
+HEKPK3120N
+
+
+10-07-2024
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- Create method for pan number validation (continue)
+	- Create request response of corporate value (done)
+	- Create method VerifypAN (done)
+	- Change method insert_token (done)
+	- Attand meeting with JD sir and steven sir (done)
+	- Change parameter in post api (done)
+	
+	
+	
+	
+10-07-2024
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Change cityID parameter in pOST API body
+	
+	
+
+10-07-2024
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- Change cityID parameter in post API body (done)
+	- Chnage sp 'get_logcity' (done)
+	- Discuss of cityid parameter with steven sir (done)
+	- Live testing of EKYC (done)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	SELECT * INTO NewTableName FROM ExistingTableName;
+	
+	
+Username- DC0\WS0015
+Password- kjZdK8fen0kHZu4z
+Anirudh
+
+
+Username - DC0\WS0013	
+
+Password - FhnMXQ61jBAYE0Nf	                              
+Bansi Vagadiya 
+
+
+
+WS008    YHNRDX#$4&%#%28IJN - JD New
+
+
+
+CommonSharedfolder	
+DUK@4gf2k4uKFEJ#4ugk	
+21		
+14.143.45.228 /11.11.11.81
+
+
+Username :- VirajWebsmith
+Pwd :- VJbusa@@102
+
+
+*** qrt ***
+
+IP - 149.56.23.109
+SQL User name: QRTDBUser#2024
+SQL Password: DBQrT##DBUser#2024
+
+
+******* Creative Library ********
+
+//MSSQL Live DB
+IP     -   11.11.11.208,9099
+Username  - Creative
+Password   - JGgf432$@#dxcfm
+
+
+
+
+//FTP credentials - Creative Library Web
+
+URLCliet:- http://creativelibrary.parikshan.net/
+URLAdmin:- http://creativelibraryadmin.parikshan.net/
+14.143.45.228 /11.11.11.81
+CreativeLibrary
+uL3lkjEyAZvz1h5H
+
+
+//FTP credentials - Creative Library API
+
+URL:- http://creativelibraryapi.parikshan.net/
+14.143.45.228 /11.11.11.81
+CreativeLibraryAPI
+uL3lkjEyAZvz1h5H
+
+//FTP Live
+https://www.riya.travel/creative-library-api/
+https://www.riya.travel/creative-library-admin/
+
+14.143.45.231 / 11.11.11.153
+creative-library
+uL3lkjEyAZvz1h5H
+
+//FTP credentials - Creative Library Live
+14.143.45.231 / 11.11.11.153
+creative-library
+creative-library
+
+
+
+w3school
+
+12-07-2024
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- Attand meeting of EKYC with steven sir ,hardik sir and JD sir (done)
+	- Resolve issue of intranet api with JD sir (done)
+	- Resolve issue of send email (done)
+	- add datetime column in the report (done)
+	- Resolve check double record issue in report(done)
+	- Change sp 'UDP_ERWApprovedListReportDataList' and 'UDP_RTT_PendingAccountApprovalList' (done)
+	- add export data in the excel (continue)
+
+
+
+15-07-2024
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- add export data in the excel (continue)
+	
+	
+	
+15-07-2024
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- add export data in the excel (done)
+	- Dispaly city when click on view (continue)
+Creative Library = Namrata Ma'am
+	- Cretae sp for user plan crud functinality (done)
+		- 'Admin_c_user_plan_getall'
+		- 'Admin_c_user_plan_Insert_update'
+		- 'Admin_c_user_plan_getbyid'
+	- Add condition when sales cretive icon display (done)
+	- Dispaly agent name when back to sales creative page (done)
+	
+	
+	
+16-07-2024
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Dispaly city when click on view (continue)
+	
+	
+	
+16-07-2024
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- Dispaly city when click on view (done)
+	- Live testing of EKYC (done)
+Creative Library = Namrata Ma'am
+	- Create logic and method for Display User plan (done)
+	- Display User plan details in admin panel (done)
+	- Discuss about sales creative with vinayak sir (done)
+	- Create form for add and edit of user plan (continue)
+	- Create sp 'Admin_user_plan_GeneralAction' (done)
+	
+	
+17-07-2024
+Hello sir,
+Good Morning
+Creative Library = Namrata Ma'am
+	- Create form for add and edit of user plan (continue)
+	
+	
+	
+
+	
+17-07-2024
+Hello sir,
+Good Evening
+Creative Library = Namrata Ma'am
+	- Create form for add and edit of user plan (done)
+	- Create sp 'Admin_user_plan_Gettitlebytype' (done)
+	- Fill username dropdown in user plan form (done)
+	- Fill cascading dropdown from plantype to plan title (done)
+	- Apply delete functinality of userplan details (done)
+EKYC = JD sir
+	- Live testing of EKYC (done)
+	- Discuss of ERP log with steven sir and JD sir(done)
+	- Change api request for to get new response (continue)
+	
+	
+	
+18-07-2024
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Change api request for to get new response (continue)
+	
+	
+	
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- EKYC testing on UAT
+	- Change username and password of ERP api
+	
+	
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- EKYC testing on UAT (done)
+	- Pancard view in pending approval page (done)
+	- Update Branch name in user page (done)
+    - resolve Lead Approvel issue (done)
+    - CIN number enter in Database (done)
+	- Chnage branchname in particular user (done)
+	- attand meeting to discuss branch name with steven sir (done)
+	
+	
+27/07/2024
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Resolve issue of branch name in STS API
+	
+	
+	
+	
+09/08/2024	
+Hello sir,
+Good Morning
+MailParser = Namrata Madam
+	- Create demo of Rule 'End With' 
+		-> Add Rule 'endsWithNextBlankLine'
+		
+		
+09/08/2024	
+Hello sir,
+Good Evening
+MailParser = Namrata Madam
+	- Create demo of Rule 'End With' 
+		-> Add Rule 'endsWithNextBlankLine' (done)
+		-> Add Rule 'endsWithEndOfContent' (done)
+		-> Add Rule 'endsWithCropLastChars' (done)
+		-> Add Rule 'endsWithCropLastWords' (done)
+		-> Add Rule 'endsWithCropLastLines' (done)
+	- Create Demo Of Replace,Remove and Insert
+		-> Add Rule 'Replace Keywoard' (done)
+		-> Add Rule 'Remove Keywoard' (done)
+		
+		
+		
+		
+10/08/2024	
+Hello sir,
+Good Morning
+MailParser = Namrata Madam
+	- Create Demo Of Replace,Remove and Insert
+		-> Add Rule 'insertText' 
+		
+		
+10/08/2024	
+Hello sir,
+Good Afternoon
+MailParser = Namrata Madam
+	- Create Demo Of Replace,Remove and Insert
+		-> Add Rule 'insertText' 
+		-> Add Rule 'removeBlankSpaces'
+		-> Add Rule 'removeLinesAndEntities'
+	- Attand meeting with sagar sir and namarata ma'am about pos
+	
+	
+
+12/08/2024	
+Hello sir,
+Good Morning
+POS = Namrata Madam
+	- R&D On Offline DB (continue)
+		
+	
+	
+12/08/2024	
+Hello sir,
+Good Evening
+POS = Namrata Madam
+	- R&D On Offline DB (done)
+	- Create demo for store data in sqlite (done)
+	- Watch video of various pos (done)
+	- Check sheet of pos featurs (done)
+Other :
+	- Give log of STS and ERP api to steven sir (done)
+	
+	
+	
+13/08/2024	
+Hello sir,
+Good Morning
+POS = Namrata Madam
+	- Watch video of various pos for pos ui(Continue)
+	
+	
+	
+	
+	
+13/08/2024	
+Hello sir,
+Good Evening
+POS = Namrata Madam
+	- Watch video of various pos for pos ui(done)
+	- Design database in excel (continue)
+	- r&d of table design merge and split (done)
+	- Create Console Demo Application to Auto Host IIS Site (done)
+Others :
+	- Check transaction which are has in ERP API but not in database in creative libarary (done)
+	
+	
+	
+	
+	
+	
+F:\Banshi\Banshi_Workspace\Riya_CreativeLibrary\Creative Library\bin\Publish
+
+
+14/08/2024	
+Hello sir,
+Good Morning
+POS = Namrata Madam
+	- Design database in excel (continue)
+	
+	
+	
+	
+14/08/2024	
+Hello sir,
+Good Evening
+POS = Namrata Madam
+	- Design database in excel (done)
+	- Find theme for admin panel (continue)
+	- Watch video of various pos for pos ui(done)
+others:
+	- Attand call of steven sir to discuss unique id in sts api (done)
+	- Resolve issue of district code pdf link in mailparser (done) 
+	
+	
+	
+	
+16/08/2024	
+Hello sir,
+Good Morning
+POS = Namrata Madam
+	- Create database in excelsheet of Reward management
+	
+	
+	
+	
+	
+16/08/2024	
+Hello sir,
+Good Evening
+POS = Namrata Madam
+	- Create database in excelsheet of Reward management (done)
+	- Find theme for pos system (done)
+	- Create database and project for pos (done)
+	- Add role in AspNetUserRole table (done)
+	- Change register method in account controller (done)
+	- Create table in pos databse (done)
+		-> CompanyType Master
+		-> CompanyMaster
+		-> CategoryMaster
+		-> SubCategoryMaster
+		-> Modifier Master
+		-> Menu Master
+	- Register role wise to add data in aspnetusers (done)
+	
+	
+	
+20/08/2024	
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Resolve issue of ERP API
+	- Attand meeting with steven sir to discuss of ERP implmentation
+	
+	
+	
+20/08/2024	
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- Add three field in pending docs form
+		-> Address2, Invoice Mode, Date of joining
+	- add Address2, Invoice Mode, Date of joining field in table (done)
+	- Change sp 'SalesDataInsertUpdate' (done)
+Creative Library = Namrata ma'am	
+	- Add condition to add creative and salescreative seprate folder (done)
+	- Add column creative_type in salecreative table (done)
+	- change sp 'salescreative_insert_update' (done)
+	- publish PushToERP crone job in FTP (done)
+	
+	
+21/08/2024	
+Hello sir,
+Good Morning
+Creative Library = Namrata ma'am	
+	- Publish Salescreative and creatives image changes
+	
+	
+	
+	
+21/08/2024	
+Hello sir,
+Good Evening
+Creative Library = Namrata ma'am	
+	- Publish Salescreative and creatives image changes (done)
+	- Testing of creative form in parikshan,live and sales creative(done)
+EKYC = JD sir
+	- Attand call to discuss about ERP api with JD sir (done)
+	- Create method to add new parameter of ERP API (done)
+	- Create new method to call api (done)
+	- Create class agencyPushDetails (done)
+	- Change parameter in getObject1 method (continue)
+	
+	
+22/08/2024	
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Change parameter in getObject1 method (continue)
+	
+	
+	
+	
+22/08/2024	
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- Change parameter in getObject1 method (done)
+	- Resolve ERPCustomer Number error (done)
+	- Add new parameter Address2,InvoicingMethod and DateOfJoining IN Form (done)
+	- Chage sp 'LeadDataGet' (done)
+	- Add parameter Agent LoginUserName and businessType in KYCDetailData (done)
+	- Resolve issue of AgentLoginUserName (done)
+Others :
+	- Testing sales creative form in creative library (done)
+	
+	
+	
+23/08/2024	
+Hello sir,
+Good Morning
+EKYC = JD sir
+	- Resolve issue of Agent Title in ERP API
+	
+	
+23/08/2024	
+Hello sir,
+Good Evening
+EKYC = JD sir
+	- Attand call with steven sir to discuss about ERP API (done)
+	- Resolve isssue of Agent Title (continue)
+Others :
+	- Attand call with sumit sir and steven sir about payment gateway and sales craetive (done)
+	- Check payment gatway issue in cretive library (done)
+	- Add new features in pos (done)
+	- Analayse features of bliss pos (done)
+	
+
+29-08-2024
+Hello sir,
+Good Morning
+Riya (JD sir)
+	->EKYC Project
+		- Change parameter of ERP API (done)
+		- Attand call with steven sir to discuss about ERP API Parameter (done)
+		- Create method EKYCPushAgentDetails2, getObjects2 (done)
+		- Create class KYCRevampAgencyDetails2 (done)
+		- Compare parameter of ERP API (done)
+		- add parameter in GenerateXMLStringKYCAgencyDetailsData method (done)
+Others :
+		- Find theme for POS System (done)
+		- Check cretive library log of schedular (done)
+		
+		
+30-08-2024
+Hello sir,
+Good Morning
+Riya (JD sir)
+	->EKYC Project
+		- Resolve error of agent Id ERP API
+		
+		
+		
+		
+
+30-08-2024
+Hello sir,
+Good Evening
+Riya (JD sir)
+	->EKYC Project
+		- Resolve error of agent Id ERP API (done)
+		- Add GSTno. and Addarno. in Parameter (done)
+		- Discuss about agent id with steven sir (done)
+		- Resolve issue of TopUp and joiningdate in xml (done)
+		- Add parameter businesstype in EKYCPushAgentDetails2 method (done)
+others :
+		- Find Theme for POS System (done)
+		- Understand task of mail CRM with viraj sir (done)
+		
+		
+		
+31-08-2024
+Hello sir,
+Good Morning
+Main CRM = Viraj sir	
+		- Change service filed place in holyday inquiry form 
+		- Hide To Date field when service is Insurance 
+
+
+
+31-08-2024
+hello sir,
+Good Morning
+Riya Mail CRM = Viraj sir
+	- set Inquiry source dropdown in Holiday LMS
+	- Create Holiday Inquiry source Table
+	- Create Get Holiday Inquiry source method for bind dropdown
+	- Add new TextBox of CRM Id or Subject
+	- Create Holiday Inquiry source class
+	- change position of Service dropdown 
+	- Remane button "Send Query" to "Submit"
+	- Remove All TMS API code
+	- Create New SP 'HolidayInquiry_Insert_v1'
+	- Hide Destination field when select Insurance Service
+	- Hide To date field when select Insurance or Visa Service
+	- Set Next Followup date based on ServiceTAT day
+		- When selected multiple service then consider Holiday service's TAT day
+		- In TAT calculation exclude 'SUNDAY'
+Others = Hardik sir
+	- Attend Meeting of Rules For New Project (Done)	
+	
+	
+	
+02-09-2024
+Hello sir,
+Good Morning
+Main CRM = Viraj sir	
+		- Testing inquiry from task in mail crm
+		
+		
+		
+
+02-09-2024
+Hello sir,
+Good Evening
+Main CRM = Viraj sir	
+		- Testing inquiry from task in mail crm (done)
+		- Change Create lead form design in inquiry (done)
+		- Apply validation on all field of Create lead form (done)
+		- Display CRMId in follow up pop-up (done)
+		- Add Create lead form title (done)
+		- Change Dashboard card name (done)
+POS(Namrata Madam):
+		- Set theme of login page and dashboard (done)
+		- Create dashboard in pos system (continue)
+		
+		
+03-09-2024
+Hello sir,
+Good Morning
+Main CRM = Viraj sir	
+		- Display CRMId in follow up pop-up (continue)
+
+
+
+21-10-2024
+Hello sir,
+Good Morning
+Main CRM = Viraj sir		
+	- Create logic of N level excelation Matrix (continue)
+
+
+
+21-10-2024
+Hello sir,
+Good Evening
+Main CRM = Viraj sir		
+	- Create logic of N level excelation Matrix (done)
+	- Attand meeting about LMS with Piyush sir,Milagreen ma'am,Harshit sir (done)
+        - Disacuss LMS project functinality with Piyush sir (done)
+	- Create function CheckHolidayUser (done)
+	- Change Function CheckEmailExistance (done)
+	- Change sp 'LMSEmailFolloupTrigger_GetAllDetails_v2' (done)
+
+
+22-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report 22-10-2024 date to Harshit sir
+	- Database migration of HolidayInquiry
+
+
+
+22-10-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report 22-10-2024 date to Harshit sir (done)
+	- Create new project Riya_LMS (done)
+	- Create class library
+	    -> Riya_LMS_Database (done)
+	    -> Riya_LMS_Models (done)
+	    -> Riya_LMS_Services (done)
+	- Change sp 'HlidayInquiry_ReportDetails' (done)
+	- Attand call with harshit sir about Report changes (done)
+		
+	
+
+23-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 23-10-2024 date to Harshit sir
+
+
+
+23-10-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report of 23-10-2024 date to Harshit sir (done)	
+	- Resolve issue of Load Home page im Riya_LMS project (done)
+	- Create HolidayInquiry and UserBase Controller (done)
+	- Create view Index,Layout,AssignInquiry (done)
+	- Add Content file for css and js (done)
+	- Create interface IHolidayInquiry (done)
+	- Create service HolidayInquiryServices (done)
+	- Create method HolidayInquiry_Insert (done)
+Others 
+	- Attand meeting of KMS with sagar sir (done)
+	
+	
+
+24-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 24-10-2024 date to Harshit sir
+	- Migrate data rccrm database to lmsTest
+	
+	
+24-10-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report of 24-10-2024 date to Harshit sir (done)
+	- Create method in HolidayInquiry service
+		-> HolidayInquiryService , HolidayInquiry_Insert
+		-> HolidayUserMaster_Insert , HolidayTravelDetail_Insert
+		-> Holiday_GetMainAgentDetailsByID
+		-> HolidayInquiry_GetAllDetails
+		-> Holiday_GetAllHolidayInquiries , HolidayInquiry_UpdateStatus
+		-> MailCRMHolidayInquiry_UpdateStatus , HolidayInquiry_AssignInquiryTMSEmpCode
+		-> HolidayInquiry_UpdateStatusFromTMS , GetHolidayBranch
+		-> GetHolidayServices , GetHolidayInquirySource
+		-> GetFollowUpDetails , InsertOrUpdateHolidayFollowUpStatus
+		-> GetAllHolidayInquiriesNew , UpdateHolidayInquiryDetails
+		-> CheckEmailExistence , GetLMSFollowUpEmail
+	
+	
+25-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 24-10-2024 date to Harshit sir
+	
+	
+
+25-10-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report of 24-10-2024 date to Harshit sir (done)
+	- Resolve issue of Branch dropdown (done)
+	- Create sp 'GetFollowUpDetails_v2' (done)
+	- Resolve issue of Display HolidayInquiry table (done)
+	- Create function dbo.split,dbo.splitstring (done)
+	- Resolve issue of insert data in HolidayFollowups and HolidayUserMaster (done)
+	- Attand call with piyush sir to discuss about user panel of LMS (done)
+	- Create table UserMaster and HolidayInquiry_Role (done)
+	
+	
+26-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 25-10-2024 date to Harshit sir
+	
+	
+26-10-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report of 25-10-2024 date to Harshit sir (done)
+	- Create sp 'UserMaster_Insert_Update' and 'UserMaster_GetAll' (done)
+	- Create method GetLisyAsyncLMS (done)
+	- Resolve isssue of mew followup add (done)
+	- Change method Index in HolidayInquiry (done)
+Others : 
+	- Learn about how to face fear from sagar sir (done)
+	
+	
+
+28-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 27-10-2024 date to Harshit sir
+	
+	
+28-10-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report of 27-10-2024 date to Harshit sir (done)
+	- Create controller UserMaster (done)
+	- Create class UserMaster (done)
+	- Create method AddOrEditUser in UserMaster controller (done)
+	- Create Service and Interface IUserMaster (done)
+Others :
+	- Diwali celebration 
+	
+	
+29-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 28-10-2024 date to Harshit sir
+	- Create form for User Insert
+
+
+29-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 28-10-2024 date to Harshit sir (done)
+	- Create form for User Insert	(done)
+	- Bind dropdown of Role,Brance,Department (done)
+	- Migrate department table from rccrm database (done)
+	- Create sp 'GetDepartment' ,'GetRoleType' (done)
+	- Insert operation of UserMaster (continue)
+	- Change sp 'UserMaster_Insert_Update' (done)
+	- Bind Services in User Insert form (continue)
+	- Attand call with Harshit about changes of download pdf(done)
+	- Create method GetDepartment, GetRoles in UserMasterService (done)
+	- Resolve issue of UserMasterService and Interface error (done)
+	
+	
+29-10-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of 05-11-2024 date to Harshit sir
+	- Bind Services in User Insert form (continue)
+	
+	
+29-10-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report of 05-11-2024 date to Harshit sir (done)
+	- Bind Services in User Insert form (done)
+	- Store coma seprated services and branches (done)
+	- Add multiselect dropdown of branches (done)
+	- Display UserDetails data (done)
+	- Create method GetUserData in UserServices (done)
+	- Create method GetUserDetailsData in UserMaster controller (done)
+	- Resolve issue of datatable (done)
+	- Create model for display message when user is inserted (done)
+	- Resolve issue of display branches in userDatatable (done)
+	
+	
+07-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Send Report of all Inquiry and followup to Harshit sir
+	- Display Inquiry according to role (continue)
+	
+	
+07-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Send Report of all Inquiry and followup to Harshit sir (done)
+	- Display Inquiry according to role (done)
+	- Create sp 'GetHolidayInquiry_v7' (done)
+	- Attand call with piyush sir about display branch wise Inquiry (done)
+	- Change sp 'GetRole' (done)
+	- Display role dropdown empcode wise (done)
+	- Display two button for navigate user insert and lead create view (done)
+	- Create logic to display HolidayInquiry branch wise (done)
+	
+	
+
+08-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 07-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Attand call with piyush sir about display branch wise Inquiry (done)
+	- Testing of display inquiry according to role and branches (done)
+	- Change sp 'GetHolidayInquiry_v7' (done)
+	- Change method GetAllHolidayInquiries in HolidayInquiry controller (done)
+	- Download excel seet of HolidayInquiry according to report (done)
+	- Create method exporttoexcel_v1 in HolidayInquiry controller (done)
+	- Create logic of two sheet create in one excel sheet (done)
+	
+	
+09-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 08-11-2024 date Inquiry and followup to Harshit sir 
+	
+	
+09-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 08-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Testing of download excel sheet according to filter (done)
+	- Resolve issue of column width and color in header (done)
+	- Display data in center in both seet (done)
+	- Resolve issue of InquiryDate and InquiryTime column in HolidayInquiry Report sheet (done)
+	- Resolve issue of NextFollowupDate and NextFollowupTime column in HolidayInquiry Report sheet (done)
+	
+	
+	
+11-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 09-11-2024 and 10-11-2024 date Inquiry and followup to Harshit sir 
+	
+	
+11-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 09-11-2024 and 10-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Create Document of Features of Lead Management System (done)
+	- Create Table ErrorLog in Lms_Test Database (done)
+	- Create Sp 'InsertError Log' (done)
+	- Create method for insert error log in HolidayInquiryServices (done)
+	
+	
+12-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 11-11-2024 date Inquiry and followup to Harshit sir 
+	
+
+	
+12-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 11-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Test downloaded report of Inquiry and followup (done)
+	- Attand meeting for lms demo and new requirement with harshit sir, piyush sir ,viraj sir(done)
+	- Add download report featurs in old project of mail crm (done)
+	- Resolve issue of InquiryTime and NextFollowupTime display in excel sheet (done)
+	- Create sp 'GetAllHolidayDetails_V7' in rccrm database (done)
+	- Create method GetAllInquires in HolidayInquiry controller (done)
+	
+	
+	
+13-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 12-11-2024 date Inquiry and followup to Harshit sir 
+	- Add dropdown of promotion in Inquiry Form 
+	
+	
+	
+	
+13-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 12-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Add dropdown of promotion in Inquiry Form (done)
+	- Create table HolidayPrmotion (done)
+	- Create sp GetHolidayPrmotion (done)
+	- Resolve issue of InquiryNumber in HolidayInquiry table (done)
+	- Resolve issue of duplicate data in report (done)
+	- Attand call with harshit sir to discuss about Prmotion dropdown (done)
+	- Add Prmotion column in download report (done)
+	- Display Prmotion dropdown according to selected services (continue)
+	
+	
+	
+14-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 13-11-2024 date Inquiry and followup to Harshit sir 
+	- Display Prmotion dropdown according to selected services (continue) 
+	
+	
+	
+14-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 13-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Display Prmotion dropdown according to selected services (done)
+	- Resolve issue of seesion expiered (done)
+	- Change sp 'GetHolidayPrmotion' (done)
+	- Change method GetHolidayPrmotion in HolidayController (done)
+	- Create HolidayInquiry dump in excel sheet (done)
+	- Test Download report and Promotion dropdown task (done)
+	
+	
+15-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 14-11-2024 date Inquiry and followup to Harshit sir 
+	- Resolve issue of duplicate report in Inquiry dump
+	- Add Promotion dropdown in Inquiry form in new project
+	
+	
+15-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 14-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Resolve issue of duplicate report in Inquiry dump (done)
+	- Add Promotion dropdown in Inquiry form in new project (done)
+	- Create table 'HolidayPromotion' and sp 'GetHolidayPromotion' (done)
+	- Add Prmotion column in excel sheet report (done)
+	- Create Incidant book of current week (done)
+	- Resolve issue of Insert error log in database (done)
+	
+	
+	
+18-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 15-11-2024 and 16-11-2024 date Inquiry and followup to Harshit sir 
+	
+	
+18-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 15-11-2024 and 16-11-2024 date Inquiry and followup to Harshit sir (done) 
+	- Display Create User button according to Role (done)
+	- Create sp 'GetRolefromEmpCode' (done)
+	- Create method in service and controller to get a roleId (done)
+	- Resolve issue of insert errorlog in Database (done)
+	- Change errorlog in all method of HolidayController and UserMaster Controller (done)
+	- Add selectall and multiselect functionality in DepartmentDropDown (done)
+	- Update service of 'HE03199' InquiryNumber (done)
+	- Add selectall and multiselect functionality in BranchesDropDown (continue)
+	
+	
+19-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 18-11-2024 date Inquiry and followup to Harshit sir 
+	- Add selectall and multiselect functionality in BranchesDropDown (continue)
+	
+	
+19-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 18-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Add selectall and multiselect functionality in BranchesDropDown (done)
+	- Change InquiryDate, TravelDateFrom,CreationDate,NextFollowupDate formate in HolidayInquiry Report (done)
+	- Replace Prmotion column in HolidayInquiry Report (done)
+	- Change sp 'GetHolidayInquiry_v7' (done)
+	- Create document about lms features (done)
+	- Attand call with Harshit sir about promotion and report task demo (done)
+	- Promotion and report task Upload in uat (done)
+	
+	
+20-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 19-11-2024 date Inquiry and followup to Harshit sir 
+	
+	
+	
+	
+20-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 19-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Attand call with harshit sir to discuss about role wise display inquiry (done)
+	- Display Create User Button according to role (done)
+	- Display role dorpdown according to requirement (done)
+	- Change logic of display role dropdown (done)
+	- Display role wise branch dropdown in Add user panel (done)
+	- Create sp 'GetHolidayBranchFromRole'(done)
+	- Change sp 'GetRolefromEmpCode' (done)
+	
+	
+21-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 20-11-2024 date Inquiry and followup to Harshit sir 
+	
+	
+21-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 20-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Create sp 'AuthenticateEmployee_WS_V1' (done)
+	- Change condition to take employee detail from UserMaster (done)
+	- Change method GetEmpDetails in emloyeeService (done)
+	- Change all sp that include employee table in lms_test database (continue)
+	- Change promotion dropdown value name (done)
+	- Attand call with harshit sir to discuss about new task (done)
+	- Display Hirarchical dropdown of HolidayServices in Inquiry insert form (done)
+	- Insert value of Hirarchical dropdown of HolidayServices in database (continue)
+	
+	
+22-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 21-11-2024 date Inquiry and followup to Harshit sir 
+	- Change all sp that include employee table in lms_test database (continue)
+	- Insert value of Hirarchical dropdown of HolidayServices in database (continue)
+	
+	
+22-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 21-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Change all sp that include employee table in lms_test database (done)
+	- Change the sp name in code that are change in database (done)
+	- Change design of Hirarchical service dropdown (done)
+	- Attand call with harshit sir to discuss about Hirarchical dropdown changes (done)
+	- Add  column CrossellService in HolidayInquiry table (done)
+	- Change sp 'HolidayInquiry_Insert_v8' (done)
+	- Add column CrossellService name in Inquiry report (done)
+	- Insert value of Hirarchical dropdown of HolidayServices in database (continue)
+	
+	
+	
+23-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 22-11-2024 date Inquiry and followup to Harshit sir 
+	- Insert value of Hirarchical dropdown of HolidayServices in database (continue)
+	
+	
+	
+23-11-2024
+Hello sir,
+Good Afternoon
+LMS = Viraj sir
+	- Add Report of 22-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Insert value of Hirarchical dropdown of HolidayServices in database (done)
+	- Change select service button in Inquiry form (done)
+	- Display alert when select secondary service without select primary service (done)
+	- Change sp 'HolidayInquiry_Insert_v8' (done)
+	- Change script for Service dropdown (done)
+	
+	
+	
+25-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 23-11-2024 and 24-11-2024 date Inquiry and followup to Harshit sir 
+	
+	
+	
+25-11-2024
+Hello sir,	
+Good Evening	
+LMS = Viraj sir
+	- Add Report of 23-11-2024 and 24-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Give lms project to piyush sir (done)
+	- Attand call with harshit to show a service dropdown in insert inquiry form (done)
+	- Add logic to hide destination when secondary service select (done)
+	- Display Prmotion dropdown when select secondary service select (done)
+	- Create sp  'HolidayInquiry_Insert_v9' (done)
+	- Impliment Service dropdown task in new project (done)
+	- Add column secondary service in Holiday Inquiry Report (done)
+	- Create logic for display role wise Inquiry (continue)
+	
+	
+26-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 25-11-2024 date Inquiry and followup to Harshit sir 
+	- Create logic for display role wise Inquiry (continue)
+	
+	
+26-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 25-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Create logic for display role wise Inquiry (done)
+	- Give demo of Service dropdown to harshit sir (done)
+	- Change column name and dropdown name of secondary service (done)
+	- Display Up-Sell Service in view details model (done)
+	- Resolve issue of Folloup Sequence in HolidayFollowups dump (done)
+	- Resolve issue of Inquiry status in HolidayInquiry report (done)
+	- Change sp 'HolidayInquiry_GetAllDetails_v1' (done)
+	- Upload service dropdown task to uat and test it (done)
+Others : 
+	- Attand call with Abhishek sir to discuss about EKYC project (done)
+	
+	
+27-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	
+	
+	
+	
+27-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Change sp 'GetAllInquires_v9' and 'GetHolidayInquiryReport_v2'(done)
+	- Change column UpSellServicenames and UpSellServicesIds in HolidayInquiry table (done)
+	- Change sp 'HolidayInquiryInsert_v5' (done)
+	- Chnage Column name of HolidayInquiry Report (done)
+	- Display UpSellServicenames in viewDetails model in new project (done)
+	- Role wise testing of display inquiry, download report button , Create user button (done)
+	- Add condition for download report button in layout (done)
+	
+	
+28-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 25-11-2024 date Inquiry and followup to Harshit sir 
+	- Give demo of role wise display Inquiry to Harshit sir
+	
+	
+	
+28-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 25-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Give demo of role wise display Inquiry to Harshit sir (Pending)
+	- Role wise testing of display inquiry, download report button , Create user button (done)
+	- Test Excelletion matrix logic in database (done)
+	- Change method SendLMSFollowUpEmail in HolidayInquiry Controller (done)
+	- Create table HolidayDownloadReportLog (done)
+	- Change sp 'LMSFollowUpEmailTrigger_GetAllDetails_v2' (done)
+	- Update google docs of lms features (done)
+	
+	
+29-11-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of 28-11-2024 date Inquiry and followup to Harshit sir 
+	- Give demo of role wise display Inquiry to Harshit sir
+	
+	
+
+29-11-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of 28-11-2024 date Inquiry and followup to Harshit sir (done)
+	- Give demo of role wise display Inquiry to Harshit sir (done)
+	- Attand call with piyush sir to update about lms changes given by Harshit sir (done)
+	- Set adit and active/Inactive button in User Datatable (done)
+	- Add column isActive in Holiday Inquiry table (done)
+	- Check duplicate entry of lead in Inquiry table (done)
+	- Change Service in Particular InquiryNumber (done)
+	- Hide Create Lead dropdown when role is BranchUser and Happiness Team User (done)
+	- Apply validation in Role dropdown (done)
+	- Apply Edit functinality of UserMaster (continue)
+	
+	
+	
+02-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Apply Edit functinality of UserMaster (continue)
+	
+	
+02-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Apply Edit functinality of UserMaster (done)
+	- Change Service dropdown in UserMaster form (done)
+	- Add Branch Dropdown validation (done)
+	- Create sp 'UserMaster_Insert_Update' (done)
+	- Create sp 'UserMaster_GeneralAction' (done)
+	- Apply Update functinality in UserMaster table (done)
+	- Create function generalAction and GetUserDetailsById (done)
+	- Create SP 'UserMasterGetDetailsById' (done)
+	
+	
+04-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- apply functionality of active inactive in User Data
+	
+	
+04-12-2024
+Hello sir,
+Good Afternoon
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- apply functionality of active inactive in User Data (done)
+	- Change sp 'UserMaster_GeneralAction' (done)
+	- Resolve issue of crmid or subject link (done)
+	- Set token in cookie to use in Crmid link (done)
+	- Attand meeting with piyush sir and viraj sir to discuss about lms task (done)
+	- Set API to display UserDetails using empcode (done)
+	- Create sp 'LMS_MailCRMHolidayInquiry_UpdateDetail_v2' (done) 
+	
+	
+
+06-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Change Destination dropdown in Inquiry form 
+	
+	
+06-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Attand call viraj sir to understand the task (done)
+	- Understand flow of CityDetails in HolidayInquiry (done)
+	- Insert column DestinationCountry, DestinationState, DestinationCity in HolidayTravelDetail table (done)
+	- Change sp 'HolidayTravelDetail_Insert' (done)
+	- Change function SaveQuery in HolidayInquiry index view (done)
+	- Change method HolidayInquiry in HolidayInquiry Controller (done)
+Others : 
+	- Attand call with Abhishek sir to discuss about EKYC project (done)
+	
+	
+07-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Change Destination dropdown in Inquiry form in new project
+	
+	
+	
+
+07-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Change Destination dropdown in Inquiry form in new project (done)
+	- Create sp 'Holiday_AssignInquiryHistory_Insert' (done)
+Others : 
+	- Attend QA training session by Sohil sir (done)
+	- Learning CTE and Index in SQL from Viraj Sir (done) 
+
+
+09-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Give demo of Destination Dropdown to Harshit sir	
+	
+	
+09-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Give demo of Destination Dropdown to Harshit sir (pending)
+	- Change sp 'Holiday_AssignInquiryHistory_Insert' (done)
+	- Change sp 'HolidayTravelDetail_Insert' (done)
+	- Insert record in Holiday_AssignInquiryHistory table (done)
+	- Create method Holiday_AssignInquiryHistory_Insert in HolidayInquiryServices (done)
+	- Change method UpdateHolidayInquiryDetails (done)
+	
+	
+10-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Give demo of Destination Dropdown to Harshit sir (pending)
+	- Change Destination dropdown in View Detail model 
+	
+
+10-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Attend a call with Piyush Sir to discuss the LogHistory table in LMS (done)
+	- Create table Holiday_AssignInquiryHistory (done)
+	- Create sp 'Holiday_TravelDetail_Insert' (done)
+	- Create method Holiday_AssignInquiryHistory_Insert in HolidayInquiry service (done)
+	- Insert log in Holiday_AssignInquiryHistory table when inquiry is generate (done)
+	- Resolve issue of datetime datatype in NextFollowpDate column (done)
+	- Insert log Holiday_AssignInquiryHistory table when followup insert (continue)
+	
+	
+
+11-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Insert log Holiday_AssignInquiryHistory table when followup insert (continue)
+	
+	
+	
+11-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Insert log Holiday_AssignInquiryHistory table when followup insert (done)
+	- Insert log Holiday_AssignInquiryHistory table when HolidayInnquiry is Update (done)
+	- Attand meeting with harshit sir to discuss about Lms task demo (done)
+	- Add Role Product Manager in Role Dropdown (done)
+	- Add Validation of Service dropdown when role is Product Manager (done)
+	- Add tooltip in Status changed icon (done)
+	- Change alert message when status change (done)
+	- Display Inquiry when role is Product Manager (continue)
+	
+	
+12-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Display Inquiry when role is Product Manager (continue)
+	- Display multiselect destination in 'View Details' model
+	- Add Feature to add or remove destinations in the 'View Details' model
+	
+	
+
+12-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Display Inquiry when role is Product Manager (done)
+	- Change sp 'LMS_GetAllHolidayInquires_v9' and 'HolidayInquiry_GetAllInquiry_v1' (done)
+	- Set Add and Remove button in View Detail model (done)
+	- Set Id, DestinationCountry, DestinationState, DestinationCity dynamically in hidden field (done)
+	- Delete Folloup data of 'HE03851' Inquiry Number (done)
+	- Display multiselect destination in 'View Details' model (done)
+	- Add Feature to add or remove destinations in the 'View Details' model (done)
+	- Update Multiselect Destination in InquiryTable (continue)
+	
+	
+13-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Update Multiselect Destination in InquiryTable (continue)
+	
+	
+13-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Update Multiselect Destination in InquiryTable (done)
+	- Delete record from Database when User Remove Destination (done)
+	- Change method UpdateInquiryDetails in Inquiry Service (done)
+	- Create sp 'HolidayTravelDetail_InsertUpdate' (done)
+	- Create class Destination  in HolidayInquiry Model (done)
+	- Resolve issue of Insert extra destination field in View Details model (done)
+	
+	
+16-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Delete record from Database when User Remove Destination (Continue)
+	- Update Destination in Inquiry Table when user update destination in View Detail
+	
+	
+16-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Delete record from Database when User Remove Destination (done)
+	- Create sp 'HolidayTravelDetail_Delete' (done)
+	- Update Destination in Inquiry Table when user update destination in View Detail (done)
+	- Modify sp 'HolidayTravelDetail_InsertUpdate' and 'HolidayInquiry_UpdateData' (done)
+	- Resolve issue of Add and Remove button alignment and color (done)
+	- Create method DeleteDestination and InsertorUpdateDestination in HolidayInquiry controller (done)
+	- Destination dropdown task implement in old project (continue)
+	
+	
+17-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Destination dropdown task implement in old project (continue)
+	
+	
+17-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Destination dropdown task implement in old project (done)
+	- Create method DeleteDestination in HolidayInquiry (done)
+	- Create sp 'HolidayTravelDetail_Delete' , 'HolidayTravelDetail_InsertUpdate' in rccrm database (done)
+	- Implement functinality that after status changed display new status without ajax call (done)
+	- Resolve issue of Insert error log in HolidayInquiry method (done)
+	- Change sp 'HolidayInquiry_InsertErrorLog' (done)
+	
+	
+18-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Give demo of Destination Dropdown and Product Manager role to Harshit sir 
+	
+	
+	
+18-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Give demo of Destination Dropdown and Product Manager role to Harshit sir (pending)
+	- Change Date formate of fromDate, ToDate, NextFollowupDate (done)
+	- Resolve issue of autofill data in ToDate (done)
+	- Change sp 'HolidayInquiry_GetAllDetails_v1' in LMS_Test and rccrm database (done)
+	- Display UserForm when user click on Update button (done)
+Others : 
+	- Attend QA Introductory Meeting (done)
+	
+	
+	
+19-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Give demo of Destination Dropdown and Product Manager role to Harshit sir (pending)
+	
+	
+19-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Give demo of Destination Dropdown and Product Manager role to Harshit sir (done)
+	- Create table 'HolidayMaster' in lmstest database (done)
+	- Create sp 'HolidayMaster_GetAll', 'HolidayMaster_Insert_Update' (done)
+	- Create controller, service, Interface of HolidayMaster (done)
+	- Create form for insert Holidays branch wise (done)
+	- Insert Holidays branch wise in database (continue)
+	
+	
+	
+	
+20-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Insert Holidays branch wise in database (continue)
+	
+	
+20-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Insert Holidays branch wise in database (done)
+	- Change sp 'HolidayMaster_Insert_Update' (done)
+	- Display Holidays in datatable (done)
+	- Create method GetHolidayData, InsertOrUpdateHoliday (done)
+	- Create Two user given by harshit sir (done)
+	- Resolve issue of Display Inquiry when role is Happiness Team User (done)
+	- Upload LMS project in FTP (done)
+	- Live testing of LMS in sso (done)
+	
+	
+	
+23-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Update Holidays branch wise in database 
+	
+	
+	
+23-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Update Holidays branch wise in database (done)
+	- Change sp 'HolidayMaster_InsertUpdate' (done)
+	- Craete model for display after Insert or Update holidays (done)
+	- Resolve issue of Hide Branch Dropdown when Role is Admin (done)
+	- Change form Title when update user or holidays (done)
+	- Change date formate of FromDate and ToDate of HolidayDatatable (done)
+	- Give demo of HolidayMaster to piyush sir (done)
+	- Create sp 'HolidayMatser_GeneralAction' (done)
+	- Apply functinality of soft delete in Holiday Master (done)
+	
+	
+	
+24-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Create logic for skip branch wise holiday in nextfollowup date  
+	
+	
+	
+24-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Create logic for skip branch wise holiday in nextfollowup date  (done)
+	- Test of skip branch wise hliday where inquiry is generate (done)
+	- Change logic of skip TATDay and sunday (done)
+	- Add TATDAY in SecondaryServices (done)
+	- Create sp 'LMS_HolidayInquiry_Insert_v6' (done)
+	- Add column and record BranchId in HolidayInquiry table (done)
+	
+	
+	
+25-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Set logic for send email level wise 
+	- Resolve issue of Service dropdown 
+	
+	
+	
+25-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Set logic for send email level wise (done)
+	- Resolve issue of Service dropdown (done)
+	- Change function CheckboxSelectLableService in HolidayInquiry Index (done)
+	- Change logic of sunday skit to insert NextFollowup Date (done)
+	- Change sp 'LMS_HolidayInquiry_Insert_v6' (done)
+	- Skip SecondaryServices TATDAY where insert NextFollowup Date (done)
+	
+	
+26-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Attend meeting about lms project discuss with Harshit sir and piyush sir 
+	
+	
+	
+26-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Attend meeting about lms project discuss with Harshit sir and piyush sir (done) 
+	- Update UpSellService of InquiryNumber 'HE04060' (done)
+	- Display selected UpSell service in Button in ViewDetail model (done)
+	- Display dropdown of UpSell service in ViewDetail model (done)
+	- Change sp 'GetHolidayDetails_v6' (done)
+	- Update UpSellService in database (continue)
+	
+	
+	
+27-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Update UpSellService in database (continue)
+	
+	
+	
+27-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Update UpSellService in database (done)
+		-> Create sp 'UpdateHolidayDetails_v3' (done)
+		-> Add parameter UpSellService in UpdateHoliday method (done)
+	- Display UpSellservice Dropdown and Update in new project (done)
+	- Update BranchId in HolidayInquiry table (done)
+		-> Change sp 'UpdateHolidayInquiryDetails_v2' in rccrm database (done) 
+	- Set Send Email button in HolidayInquiry details datatable (done)
+		-> Set logic for send Email to client (continue)
+		
+	
+	
+28-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Set logic for send Email to client (continue)
+	
+	
+28-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Set logic for send Email to client (continue)
+		-> Create function Send Email in Index view (done)
+		-> Create method SendInquiryEmail (done)
+		-> Set mail body and subject (continue)
+Others : 
+	- Attend meeting of Quality Planning (done)
+	- Create document of Quality Planning (done)
+	
+	
+	
+30-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Set mail body and subject (continue)
+	
+	
+30-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Attend call with piyush sir to discuss about task (done)
+	- Create model to insert Email Detail (done)
+	- Create method for send email (done)
+	- Create function for get email details (done)
+	- Set Email box icon to send email (done)
+	- get signature of employee from database (continue)
+	
+	
+	
+31-12-2024
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- get signature of employee from database (continue)
+	
+	
+	
+31-12-2024
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- get signature of happiness department from database (done)
+	- Set subject and email body for testing (done)
+	- Set signature at last of body (done)
+	- Testing of send mail of Inquiry (done)
+	- Set Name and designation in signature (continue)
+Others : 
+	- Celebrate cristmas and secret santa at office 
+	
+	
+	
+01-01-2025
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Set Name and designation in signature (continue)
+	
+	
+01-01-2025
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Set Name and designation in signature (done)
+		-> Create sp 'GetEmployeeDetail' (done)
+		-> Replace Name and Designation in SendInquiryEmail method (done)
+	- Resolve issue of space in signature (done)
+	- Display SendEmail button according to role (done)
+	- Change sp 'GetRoleFromEmpcode' (done)
+	- Show SendEmail task to piyush sir (done)
+	
+	
+02-01-2025
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Display message after send mail 
+	- Display mail in sent box in happiness team 
+	
+	
+	
+02-01-2025
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Display message after send mail (done)
+	- Set Subject and Body in mail given by harshit sir (done)
+	- Attend call with piyush sir to discuss about Send Mail task (done)
+	- Display mail in sent box in happiness team (continue)
+		-> Generate sr no. and MailId (done)
+		-> Create method InsertorupdateSentMail and SendMail_New_SMTP (done)
+		-> Create sp 'GetEmployeeId' and 'GetUserDetails' (done)
+		-> Get InquiryNumber from hidden field (done)
+		-> Create Service and interface of SendInquiryMail (done)
+		-> Create method GetEmployeeId and GetSrNo in service (done)
+		-> Testing of Display mail in sent box of happiness department (continue)
+		
+		
+		
+03-01-2025
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Display mail in sent box in happiness team (continue)
+	
+	
+	
+03-01-2025
+Hello sir,
+Good Evening
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir (done)
+	- Display mail in sent box in happiness team (done)
+	- Resolve issue of Insert data in rccrm (done)
+		-> Create method 'ExecuteProcedureAsync' in dbhelper (done)
+		-> Change method 'SendMail_New_SMTP' in SentEmailServices (done)
+	- Testing of Display mail in sent box of happiness department (done)
+	- Change subject of send Email (done)
+	- Insert EmailDetails in Lms Database (done)
+		-> Create table Holiday_EmailDetails (done)
+		-> Create sp 'Holiday_EmailDetails_InsertorUpdate' (done)
+		-> Create method EmailDetails_InsertorUpdate (done)
+	- Insert error log in lms database (done)
+	- Give demo of Email send and display sent mail in Happiness team to piyush sir (done)
+Others : 
+	- Find list of EmailClients and EmailService (done)
+	
+	
+	
+	
+04-01-2025
+Hello sir,
+Good Morning
+LMS = Viraj sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Create KMS of Lead Management system
+	
+	
+	
+04-01-2025
+Hello sir,
+Good Afternoon
+LMS 
+	- Add Report of Inquiry and followup to Harshit sir (done)
+Others : 
+	- Update document of LMS fetures (done)
+	- Update document of LMS Task summary (done)
+	- Create KMS of Lead Management system (continue)
+	
+	
+	
+03-01-2025
+Hello sir,
+Good Morning
+LMS = Harshit sir
+	- Add Report of Inquiry and followup to Harshit sir 
+	- Give demo of Send Mail task to harshit sir
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
