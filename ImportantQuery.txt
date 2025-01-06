@@ -1,0 +1,26 @@
+	SELECT
+    db.name AS DBName,
+    type_desc AS FileType,
+    Physical_Name AS Location,
+    CONVERT(decimal(12,2), mf.size / 128.0) AS Size_MB,
+	    db.create_date AS CreationDate
+FROM
+    sys.master_files mf
+INNER JOIN 
+    sys.databases db ON db.database_id = mf.database_id
+
+
+
+
+
+
+
+SELECT 
+    OBJECT_NAME(object_id) AS 'Table Name',
+    name AS 'Column Name',
+    OBJECT_DEFINITION(object_id) AS 'Object Definition'
+FROM 
+    sys.columns
+WHERE 
+    name like '%type%';
+

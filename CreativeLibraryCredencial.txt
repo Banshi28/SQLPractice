@@ -1,0 +1,71 @@
+**** Live Database in PHP *****
+
+database name : creatives
+database url : http://20.198.99.10:8080/phpmyadmin
+username : creative
+password : Ehyi97JudfqiXDKx
+
+
+
+**** Creative Library DataBase in MSSQL *****
+
+Creative Library
+
+IP     -   11.11.11.208,9099
+Username  - Creative
+Password   - JGgf432$@#dxcfm
+
+
+
+****  Remote database Aditya'sLaptop ****
+
+User name : Creative Library DB
+Password: Admin@123
+
+
+
+**** FTP credentials - Creative Library Web ****
+
+URL:- http://creativelibrary.parikshan.net/
+14.143.45.228 /11.11.11.81
+CreativeLibrary
+uL3lkjEyAZvz1h5H
+
+
+**** FTP credentials - Creative Library API ****
+
+URL:- http://creativelibraryapi.parikshan.net/
+14.143.45.228 /11.11.11.81
+CreativeLibraryAPI
+uL3lkjEyAZvz1h5H
+
+
+**** VPN Credincial****
+
+Username- jay.p
+Password- qLuF05398b6P
+
+
+Username- WS0012
+Password- QB2IVsW2IPE5d3Od
+
+
+
+Username- DC0\WS0015
+Password- kjZdK8fen0kHZu4z
+Anirudh
+
+
+Username - DC0\WS0013	
+Password - FhnMXQ61jBAYE0Nf	                              
+Bansi Vagadiya
+
+
+
+
+
+
+
+
+
+

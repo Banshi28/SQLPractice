@@ -1,0 +1,47 @@
+************* important query **************
+
+(1)
+
+SELECT TOP 10  qs.last_execution_time, st.text AS batch_text,
+    SUBSTRING(st.TEXT, (qs.statement_start_offset / 2) + 1, ((CASE qs.statement_end_offset WHEN - 1 THEN DATALENGTH(st.TEXT) ELSE qs.statement_end_offset END - qs.statement_start_offset) / 2) + 1) AS statement_text,
+    (qs.total_worker_time / 1000) / qs.execution_count AS avg_cpu_time_ms,
+    (qs.total_elapsed_time / 1000) / qs.execution_count AS avg_elapsed_time_ms,
+    qs.total_logical_reads / qs.execution_count AS avg_logical_reads,
+    (qs.total_worker_time / 1000) AS cumulative_cpu_time_all_executions_ms,
+    (qs.total_elapsed_time / 1000) AS cumulative_elapsed_time_all_executions_ms
+FROM sys.dm_exec_query_stats qs
+CROSS APPLY sys.dm_exec_sql_text(sql_handle) st
+ORDER BY(qs.total_worker_time / qs.execution_count) DESC
+
+
+
+(2)
+
+SELECT TOP 100 qs.last_execution_time,
+    qs.total_elapsed_time / qs.execution_count / 1000000.0 AS average_seconds,
+    qs.total_elapsed_time / 1000000.0 AS total_seconds,
+    qs.execution_count,
+    SUBSTRING (qt.text,qs.statement_start_offset/2, 
+         (CASE WHEN qs.statement_end_offset = -1 
+            THEN LEN(CONVERT(NVARCHAR(MAX), qt.text)) * 2 
+          ELSE qs.statement_end_offset END - qs.statement_start_offset)/2) AS individual_query,
+    o.name AS object_name,o.type,
+    DB_NAME(qt.dbid) AS database_name
+FROM sys.dm_exec_query_stats qs
+    CROSS APPLY sys.dm_exec_sql_text(qs.sql_handle) as qt
+    LEFT OUTER JOIN sys.objects o ON qt.objectid = o.object_id
+WHERE qt.dbid = DB_ID() 
+--and (qs.total_elapsed_time / qs.execution_count / 1000000.0) > 1
+--and cast(qs.last_execution_time as date)= cast(getdate() as date)
+and month(qs.last_execution_time)>3
+--and o.name like '%GetSpamMails_v2%'
+ORDER BY average_seconds DESC;
+
+
+
+
+
+
+
+
+

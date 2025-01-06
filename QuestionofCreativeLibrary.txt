@@ -1,0 +1,54 @@
+(1). In the current live project, when a user registers, their data is entered into the 'user_temp' table. When a user     purchases a plan, all of their details are then entered into the 'user_detail' table.
+
+In our project, should the system send the credentials upon registration, or should it do so after the user purchases a plan? This is because, in the current live project, user credentials are shared after the user purchases a plan.
+
+(2). On the creative display page there is a dropdown of Category, but There is no data for categories in the database, how should the Category dropdown be handled?
+
+(3). In the theme, there is a "Sort By" option on the creative page. Which column should be used to sort the creatives?  
+
+(4). In the Admin Side, when adding a new creative, there are three options: All, On Demand, and Custom. However, in the theme, there is an additional option in the filter called 'On Plan'.
+
+(5). In the theme, the plan has a description, but there isn't a corresponding column in the database to store or display this description.
+
+
+
+
+
+
+(1). When a user has more than one plan and downloads creative, which plan's download count decreases?
+
+(2). When should data be entered into the login_history table? and what use of login_from column?
+
+(3). When a user registers or login, which ID is updated among these ids: agentid, newagentid, Icustid, terminalid?
+
+(4). In the theme, there is a Subscription Plan page. Where is this page display?
+
+(5). How many downloads are allowed for free on the free plan?      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1). When a user has more than one plan and downloads creative, which plan's download count decreases?
+
+If an agent downloads from a subscription plan, the count is deducted from there. Similarly, if they download from on-demand creative, the count will be subtracted from the on-demand allowance. The same applies to custom downloads.
+
+If an agent has a subscription plan, they are not able to download from on-demand. They must receive a notification to purchase a new plan if they attempt to do so.
+
+(3). When a user registers or login, which ID is updated among these ids: agentid, newagentid, Icustid, terminalid?
+
+Either Icustid or terminalid
+
+(5). How many downloads are allowed for free on the free plan?
+
+So, the admin panel already has this feature to add the count. We need a similar functionality. (Do you need a demo on how to create a plan within the existing flow?)
+

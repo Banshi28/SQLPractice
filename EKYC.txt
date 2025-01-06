@@ -1,0 +1,1 @@
+UDP_ERWPInserUpdateRiyaConnect_RTTKYCDataChange Branch to Branch code in select statement for EREEP_MSTRTT LEAD DETAIL TABLE

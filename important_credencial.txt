@@ -1,0 +1,169 @@
+**** Live Database in PHP *****
+
+database name : creatives
+database url : http://20.198.99.10:8080/phpmyadmin
+username : creative
+password : Ehyi97JudfqiXDKx
+
+
+
+**** Creative Library DataBase in MSSQL *****
+
+Creative Library
+
+IP     -   11.11.11.208,9099
+Username  - Creative
+Password   - JGgf432$@#dxcfm
+
+
+
+****  Remote database Aditya'sLaptop ****
+
+User name : Creative Library DB
+Password: Admin@123
+
+
+
+**** FTP credentials - Creative Library Web ****
+
+URL:- http://creativelibrary.parikshan.net/
+14.143.45.228 /11.11.11.81
+CreativeLibrary
+uL3lkjEyAZvz1h5H
+
+
+**** FTP credentials - Creative Library API ****
+
+URL:- http://creativelibraryapi.parikshan.net/
+14.143.45.228 /11.11.11.81
+CreativeLibraryAPI
+uL3lkjEyAZvz1h5H
+
+
+**** VPN Credincial****
+
+Username- jay.p
+Password- qLuF05398b6P
+
+
+Username- WS0012
+Password- QB2IVsW2IPE5d3Od
+
+
+
+Username- DC0\WS0015
+Password- kjZdK8fen0kHZu4z
+Anirudh
+
+
+Username - DC0\WS0013	
+
+Password - FhnMXQ61jBAYE0Nf	
+Bansi Vagadiya
+			
+
+localhost:44335
+
+
+
+
+
+
+
+
+E-KYC			
+			
+Sales User (Admin)	"033186"		
+Sales Person	"033225"		
+			
+FTP credentials			
+			
+Name	Password	Port	IP
+			
+Domains	c=]No][n[+r~9R#4	21	14.143.45.231
+			
+Old Database Credentials			
+			
+
+servername	14.143.46.150,8081		
+Username	SalesForce_web		
+Password	FGH$@2ytd#gc$3246		
+DBName	Salesforce		
+			
+Salesforce_EkycRevampe Database Credentials			
+			
+servername	10.11.11.169,8081		
+Username	Intranet		
+Password	Intranet		
+DBName	Salesforce_EkycRevampe		
+			
+URLS			
+			
+UAT: https://salesforce.riya.travel/	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Euronet							
+							
+Production Credentials for MR,DTH,PP Service							
+							
+Production URL	https://apip.eftapme.com/epayonlineeuronet/api/enservice						
+Merchant Code	WSS						
+Username	WEBSMITH01						
+User Pass	W3B5M!TH@1						
+Store Code	WSS_01						
+Requester Ip	10.10.10.10						
+Channel Code:	INT						
+Agent id	EU01EU47MOBU00000001						
+Salt Value	ENWSS991						
+Encryption key	R0y@lEnf!eld46						
+							
+							
+							
+ServiceCodeDescription	ServiceProviderName	SubServiceProviderName	Billerid	Subscription Details	FetchRequirement	Billvalidation	
+Mobile postpaid	Vodafone	Vodafone-ALL	VODA00000NAT01	Mobile Number	N	Y	
+Mobile postpaid	Reliance JIO	Jio Postpaid	JIO000000NAT01	Mobile Number	N	Y	
+							
+UAT Credentials for MR,DTH,PP Service							
+							
+UAT URL	https://epayuat.eftapme.com/enserviceAES256/API/EnService						
+Merchant Code	WEB						
+Username	WEB_01						
+Store Code	WEB_01						
+User Pass	WEB_01						
+Channel Code:	INT						
+Agent id	EU01EU02000000000001						
+Salt Value	Os3dcl82						
+Encryption key	abcd12345678901*						
+							
+							
+Network Mode	Biller	Biller ID (Test Billers)	Bill Fetch	Bill Pay	Bill validation	Consumer No	Amount in paisa
+"OFFUS
+ (Bill Pay)"	OATOE	OTOE00007XXA63	Yes	Yes	NO	8484943081	100000
+	OTOE	OTOE00005XXZ43	NO	Yes	Yes	8484943081	100000
+	OTNS	OTNS00005XXZ43	NO	Yes	Yes	8484943081	10000		
+
+
+
+
+
+
+
+
+
+
+
+
