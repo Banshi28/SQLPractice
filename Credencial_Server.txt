@@ -1,0 +1,332 @@
+https://docs.google.com/spreadsheets/d/1zmxguBk2_WGPc1rlG18aRkepYNBBZHq3oE4GpEB_-U8/edit?gid=291246231#gid=291246231
+
+
+
+
+UPDATE HolidayFollowUps
+SET HF.InquiryNo = 'HE25' + RIGHT(HI.InquiryNumber, 2)
+FROM HolidayFollowUps HF
+INNER JOIN HolidayInquiry HI ON HF.HolidayInquiryIDP = HI.HolidayInquiryIDP and HF.InquiryNo=HI.InquiryNumber;
+
+
+UPDATE HolidayInquiry
+SET HI.InquiryNumber = 'HE25' + RIGHT(HI.InquiryNumber, 2)
+FROM HolidayInquiry HI
+
+
+CREATE PROCEDURE
+
+
+730636
+
+
+
+
+onclick="$('#HolidayUserDetailsModel').modal('hide')"
+
+
+
+
+IP       -  4.213.91.129,8181
+username - Lmsuser
+pass     - HG^%2jhGCm%47GHCg
+
+
+
+lmstest
+KUjyydJgMK4jA0p2
+21
+4.247.148.130
+Internal Team
+
+
+
+
+
+
+
+setTimeout(() => {
+            const resultsSection = document.getElementById('Filtertable');
+            if (resultsSection) {
+                resultsSection.scrollIntoView({ behavior: 'smooth' });
+            }
+        }, 100);
+
+
+
+
+Get_EmployeeList_New
+
+http://localhost:45522
+
+HolidayTravelDetail_Insert
+http://localhost:45522/?token=44ih9sfkdnsj1p6rag2s0ebu3j88bn2u
+
+
+45522
+let deletedDestinationIds = [];
+
+Up-sell services
+
+
+tdSecondaryServicesNames
+
+313388 - 2713
+023320 - 2706
+
+
+public async Task<IActionResult> NameFromSSO(string empcode)
+	{
+		SSOEmpResponse emp = new SSOEmpResponse();
+		string URI = "https://sso.riya.travel/auth/GetADUserDetails/";
+		string myParameters = "emp_code=" + empcode + "&client=" + "Riya Webmail";
+
+		string HtmlResult = "";
+		using (WebClient wc = new WebClient())
+		{
+			wc.Headers[HttpRequestHeader.ContentType] = "application/x-www-form-urlencoded";
+			HtmlResult = await Task.FromResult(wc.UploadString(URI, myParameters));
+		}
+
+		return Json(HtmlResult);
+
+	}
+		
+		
+<a href="/UserMaster/Index" class="re-btn action-btn" title="Send FollowUp Email">
+					<span>Insert User</span>
+</a>
+						
+						
+023231
+						
+GetAllHolidayInquiries_v7
+
+First sheet : 
+ Remarks - Allignment , (DONE)
+ Destination Namae is Null the  - , (done)
+ iNQUIRYtIME ,  
+
+
+
+Second sheet : 
+ REMARKS - aLLIGNMENT , (DONE)
+ fOLLOWuPSEQUENCE , (done)
+ nEXTfOLLOWtIME1 ,
+ sR nO., 
+
+
+worksheet.Cell(currentRow, 1).Style.NumberFormat.Format = "dd/MM/yyyy";
+
+
+
+13-Nov-2024
+
+
+InquiryDump  = 496
+InquiryReport = 509
+
+Live 592 -96 = 496
+
+Sp = 496
+
+
+
+SELECT COUNT(*) AS StoredProcedureCount
+FROM sys.objects
+WHERE type = 'P' AND is_ms_shipped = 0;
+
+	
+DECLARE @TableName NVARCHAR(256) = 'employee';
+
+SELECT DISTINCT 
+    o.name AS ProcedureName,
+    o.create_date AS CreationDate,
+    o.modify_date AS LastModifiedDate
+FROM sys.objects o
+INNER JOIN sys.sql_modules m ON o.object_id = m.object_id
+WHERE o.type = 'P' -- Type 'P' represents stored procedures
+  AND m.definition LIKE '%' + @TableName + '%';
+  
+  
+  
+  
+  
+ select distinct MainAgentID from HolidayInquiry 
+
+select * from  Employee where id in (3458
+,3107
+,2706
+,2709
+,3612)
+
+
+
+
+Primary Services
+
+- Cruise
+
+- Eurail
+
+- Flight Ticket
+	
+- Forex
+
+- Holiday
+
+- Hotel
+
+- Insurance
+
+- SightSeeing
+
+
+secondary service
+
+- Visa
+
+ -> Cruise
+
+ ->	Eurail
+
+ ->	Forex
+
+ -> Holiday
+
+ -> Hotel
+
+ -> Insurance
+
+ ->SightSeeing
+
+ -> Visa
+
+
+<div class="checkboxes" id="Services">
+                                                                <div class="inner-wrap">
+                                                                    @if (ViewBag.HolidayServices != null)
+                                                                    {
+                                                                        @*<label style=" display: flex; align-items: center;" class="mb-2">
+                                                                            <input type="checkbox" value="all_services" class="checkAllServices" style=" width: 5%;" />
+                                                                            <span>Select All</span>
+                                                                        </label>*@
+
+                                                                        foreach (HolidayServicesClass item in ViewBag.HolidayServices)
+                                                                        {
+                                                                            <label style=" display: flex; align-items: center;" class="mb-2">
+                                                                                <input type="checkbox" value="@item.Id" class="ckkBoxSrv val checkServices" style=" width: 5%;" />
+                                                                                <span id="@item.Id">@item.ProductName</span>
+                                                                            </label>
+
+                                                                        }
+                                                                    }
+                                                                </div>
+                                                            </div>
+															
+															
+															
+															
+	HE02572														
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															 <div class="checkboxes" id="Services">
+                                                                <div class="inner-wrap">
+                                                                    @if (ViewBag.HolidayServices != null)
+                                                                    {
+                                                                        foreach (HolidayServicesClass item in ViewBag.HolidayServices)
+                                                                        {
+                                                                            <div class="parent-service">
+                                                                                <label style="display: flex; align-items: center;" class="mb-2">
+                                                                                    <input type="checkbox" value="@item.Id" class="ckkBoxSrv val checkServices" style="width: 5%;" />
+                                                                                    <span id="@item.Id">@item.ProductName</span>
+                                                                                </label>
+
+                                                                                <div class="innercheckboxes" id="innerServices_@item.Id" style="display:none;">
+                                                                                    <div class="inner-wrap">
+                                                                                        <label style="display: flex; align-items: center;" class="mb-2">
+                                                                                            <input type="checkbox" value="all_services" class="innercheckAllServices" style="width: 5%;" />
+                                                                                            <span>Select All</span>
+                                                                                        </label>
+
+                                                                                        @if (ViewBag.HolidayServices != null)
+                                                                                        {
+                                                                                            foreach (HolidayServicesClass inneritem in ViewBag.HolidayServices)
+                                                                                            {
+                                                                                                <label style="display: flex; align-items: center;" class="mb-2 innerItem">
+                                                                                                    <input type="checkbox" value="@inneritem.Id" class="innercheckServices val" style="width: 5%;" />
+                                                                                                    <span id="@inneritem.Id">@inneritem.ProductName</span>
+                                                                                                </label>
+                                                                                            }
+                                                                                        }
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        }
+                                                                    }
+                                                                </div>
+                                                            </div>
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ HE03383
+ 
+ select * from EmailTransactionHistory_v1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Holiday Master
+	- Id
+	- BranchId
+	- Holiday Name
+	- Remarks 
+	- FromDate
+	- ToDate
+	- isActive
+	- CreatedDate
+	- CreatedBy
+	- UpdatedDate
+	- UpdatedBy
